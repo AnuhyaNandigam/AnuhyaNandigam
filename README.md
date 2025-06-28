@@ -30,7 +30,7 @@ const AnuhyaNandigam = {
 
 - 🔭 Building **AI-Powered Mock Interview Platform**
 - 🧠 Exploring **3D & Animated Developer Experiences**
-- 📫 Email me at: **kiretyv@gmail.com**
+- 📫 Email me at: **anuhyanandhigam462@gmail.com**
 
 ---
 
