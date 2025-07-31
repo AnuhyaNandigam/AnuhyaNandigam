@@ -19,7 +19,7 @@
 
 ```js
 const AnuhyaNandigam = {
-  pronouns: "He/His",
+  pronouns: "She/Her",
   code: ["JavaScript", "Python", "C"],
   tools: ["React", "Node", "MongoDB", "Express", "TailwindCSS"],
   cloud: ["AWS", "Vercel"],
