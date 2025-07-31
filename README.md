@@ -2,7 +2,7 @@
 <!-- AMMALOVEBLESSINGSONRECURSION -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7C62A&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B%2C+I'm+Nandhigam+AnuhyaNandigam;Frontend+Wizard+with+AI+Powers;Weaving+Code+%26+Devotion+Together!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7C62A&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B%2C+I'm++Anuhya Nandigam;Frontend+Wizard+with+AI+Powers;Weaving+Code+%26+Devotion+Together!"/>
 </h1>
 
 <p align="center">
@@ -18,7 +18,7 @@
 ### 🚀 About Me
 
 ```js
-const AnuhyaNandigam = {
+const Anuhya Nandigam = {
   pronouns: "She/Her",
   code: ["JavaScript", "Python", "C"],
   tools: ["React", "Node", "MongoDB", "Express", "TailwindCSS"],
